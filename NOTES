@@ -10,3 +10,4 @@ https://github.com/torvalds/linux/commits/master/arch/x86/entry/entry_64.S
 http://wiki.osdev.org/SYSENTER - just hook IA32_SYSENTER_EIP + patch vdso?
 https://github.com/torvalds/linux/blob/master/arch/x86/lib/insn.c to find sysexit?
 patch thread context switcher?
+https://github.com/torvalds/linux/blob/master/drivers/pci/msi.c
