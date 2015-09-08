@@ -1,5 +1,5 @@
 /*
- * @author  Derek Molloy
+ * Based on tutorial by Derek Molloy:
  * http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/
 */
 
@@ -13,8 +13,8 @@
 #include <linux/kernel.h>
 #include <linux/miscdevice.h>
 
-MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Derek Molloy");
+MODULE_LICENSE("Dual BSD/GPL");
+MODULE_AUTHOR("https://github.com/wrmsr");
 MODULE_DESCRIPTION("starr");
 MODULE_VERSION("0.1");
 
