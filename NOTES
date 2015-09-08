@@ -1,0 +1,8 @@
+http://www.ibm.com/developerworks/library/l-tasklets/
+https://www-ssl.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-manual-325462.pdf @ 1949
+http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/
+http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/
+http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/
+starr -> misc_register
+ - god damn sysexit - easy do do whole-core or whole-system :|
+http://stackoverflow.com/a/13585364
